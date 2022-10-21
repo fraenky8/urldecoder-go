@@ -10,17 +10,10 @@ Tools to URL decode and URL encode inputs on the commandline.
 
 ## Install
 
-Install `urldecoder` and `urlencoder` binaries via
+To install latest `urldecoder` and `urlencoder` binaries:
 
 ```
-go install github.com/fraenky8/urldecoder-go/...
-```
-
-Or single installation via
-
-```
-go install github.com/fraenky8/urldecoder-go/cmd/urldecode/...
-go install github.com/fraenky8/urldecoder-go/cmd/urlencode/...
+go install github.com/fraenky8/urldecoder-go/...@main
 ```
 
 ## Usage
